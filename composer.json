@@ -1,0 +1,25 @@
+{
+  "name": "alakentu/corona-free-dark-bootstrap-admin-template",
+  "description": "Corona Admin - free responsive admin template built with Bootstrap 4.",
+  "homepage": "https://www.bootstrapdash.com//",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "BootstrapDash"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/alakentu/corona-free-dark-bootstrap-admin-template /issues"
+  }
+}
