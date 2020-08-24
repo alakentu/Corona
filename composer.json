@@ -1,5 +1,5 @@
 {
-  "name": "alakentu/corona-free-dark-bootstrap-admin-template",
+  "name": "alakentu/Corona",
   "description": "Corona Admin - free responsive admin template built with Bootstrap 4.",
   "homepage": "https://www.bootstrapdash.com//",
   "keywords": [
@@ -20,6 +20,6 @@
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/alakentu/corona-free-dark-bootstrap-admin-template /issues"
+    "issues": "https://github.com/alakentu/Corona/issues"
   }
 }
