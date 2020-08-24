@@ -38,7 +38,7 @@ Corona Admin is released under MIT license. Corona Admin is a free Bootstrap 4 a
 
 <h1>How to use Corona Admin?</h1>
 
-1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template.git in you terminal to get a copy of this template.
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/alagentu/Corona.git in you terminal to get a copy of this template.
 
 2 - After the files have been downloaded you will get a folder with all the required files
 
